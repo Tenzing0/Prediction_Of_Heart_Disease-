@@ -1,4 +1,2 @@
 # Prediction_Of_Heart_Disease-
-The project is separated in 2 different phases.
-Phase 1 involves Data Curation and Data Exploration
-Phase 2 involves Data Modelling 
+### The objective of this project is to predict whether a person has a cardiovascular disease.The dataset was obtained from the kaggle website at https://www.kaggle.com/ronitf/heart-disease-uci [1].This project has been divided into two phases. Phase-1 is focused in data pre-processing and data exploration, as covered in this report. Model-building will be presented in Phase-2 of this project. In this report we carry out the first initial steps of data science process. We start with describing the dataset and its attributes. Data Preprocessing is covered in Section-2 of the report and then we finally move to data exploration in Section-3 where we examine the realtionship between the various attributes in the dataset. Finally we conclude with the summary of the results.
